@@ -9,12 +9,7 @@ Soy Backend Developer con tecnologias como Python, Django, FastAPI, Flask, Nestj
 - [Twiter](https://twitter.com/afbayonaj)
 
 ## 🧑‍💻 Some technologies I use:
-<p align="center">
- <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/python.svg" alt="python" style="vertical-align:top; margin:4px">
- <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/html.svg" alt="html" style="vertical-align:top; margin:4px">
- <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/javascript.svg" alt="javascript" style="vertical-align:top; margin:4px">
- <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/github.svg" alt="github" style="vertical-align:top; margin:4px">
-</p>
+
 
 ## 📂 My Projects
  
