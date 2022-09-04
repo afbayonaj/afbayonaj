@@ -5,6 +5,7 @@ Soy Backend Developer con tecnologias como Python, Django, FastAPI, Flask, Nestj
 
 ## 📌 You can find me:
 - [Mail](andres.bayona@outlook.com)
+- <li><a href="mailto:andres.bayona@outlook.com">Email</a></li>
 - [Linkedin](https://www.linkedin.com/in/afbayonaj/)
 - [Twiter](https://twitter.com/afbayonaj)
 
