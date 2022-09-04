@@ -14,7 +14,7 @@ Soy Backend Developer con tecnologias como Python, Django, FastAPI, Flask, Nestj
  
 ## 🧮 Some of my stats are:
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=afbayonaj)](https://github.com/anuraghazra/github-readme-stats)
+[![afbayonaj GitHub stats](https://github-readme-stats.vercel.app/api?username=afbayonaj)](https://github.com/afbayonaj/github-readme-stats)
 
 ___________________________________________________________________________________
 
