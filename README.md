@@ -14,7 +14,7 @@ Soy Backend Developer con tecnologias como Python, Django, FastAPI, Flask, Nestj
 🟩 Django  
 🐘PostgreSQL  
 📑 MySQL  
-🟩 FastAPI  
+⚡ FastAPI  
 🟩 Nestjs  
 :octocat: GitHub  
 🔷 SCRUM  
