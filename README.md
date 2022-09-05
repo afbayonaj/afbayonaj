@@ -11,11 +11,11 @@ Soy Backend Developer con tecnologias como Python, Django, FastAPI, Flask, Nestj
 ## 🧑‍💻 Some technologies I use:
 🌶️ Flask  
 🐍 Python  
-🟩 Django  
+🔧 Django  
 🐘PostgreSQL  
 📑 MySQL  
 ⚡ FastAPI  
-🟩 Nestjs  
+🦊 Nestjs  
 :octocat: GitHub  
 🔷 SCRUM  
 
