@@ -46,7 +46,7 @@ Este proyecto es el complemento del anterior el cual permite manejar la informac
 
 ___________________________________________________________________________________
 <p>
-Orgullosamente estudiante de ...        
+*Orgullosamente estudiante   *         
 <img src="https://img.shields.io/badge/Platzi-98CA3F?style=for-the-badge&logo=platzi&logoColor=white" alt="github" />&nbsp;&nbsp;
 </p>
 ___________________________________________________________________________________  
