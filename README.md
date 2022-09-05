@@ -20,8 +20,8 @@ Soy Backend Developer con tecnologias como Python, Django, FastAPI, Flask, Nestj
 ♻️ SCRUM  
 
 ## 📂 My Projects
--- https://studio-ghibli-tracker.vercel.app/  
--- https://studio-ghibli-backoffice.vercel.app/login  
+- 📽️ https://studio-ghibli-tracker.vercel.app/  
+- ⚙️ https://studio-ghibli-backoffice.vercel.app/login  
  
 ## 🧮 Some of my stats are:
 
