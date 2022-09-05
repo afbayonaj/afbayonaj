@@ -9,7 +9,15 @@ Soy Backend Developer con tecnologias como Python, Django, FastAPI, Flask, Nestj
 - [Twiter](https://twitter.com/afbayonaj)
 
 ## 🧑‍💻 Some technologies I use:
-
+🌶️ Flask
+🐍 Python
+🟩 Django
+🐘PostgreSQL
+📑 MySQL
+🟩 FastAPI
+🟩 Nestjs
+:octocat: GitHub
+🔷 SCRUM
 
 ## 📂 My Projects
  
