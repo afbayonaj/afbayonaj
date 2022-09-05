@@ -34,7 +34,7 @@ Soy Backend Developer he trabajado con tecnologias como Python, Django, FastAPI,
 </p>
 
 ## 📂 My Projects
-El siguiente es aplicación web que permite ver el catálogo de películas producidas por el estudio Ghibli, así como registrar una calificación personal y llevar el registro de cuáles ya se han visto y cuales no.  
+El siguiente es una aplicación web que permite ver el catálogo de películas producidas por el estudio Ghibli, así como registrar una calificación personal y llevar el registro de cuáles ya se han visto y cuales no.  
 - 📽️ https://studio-ghibli-tracker.vercel.app/  
 
 Este proyecto es el complemento del anterior el cual permite manejar la información administrativa del Proyecto de Studio Ghibli Tracker, los usuarios pueden insertar nuevas películas que se verán en esta App,  así como también tener un control de acceso para quienes pueden hacer esto.
