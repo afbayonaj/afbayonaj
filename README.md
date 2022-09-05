@@ -9,16 +9,17 @@ Soy Backend Developer con tecnologias como Python, Django, FastAPI, Flask, Nestj
 - [Twiter](https://twitter.com/afbayonaj)
 
 ## 🧑‍💻 Some technologies I use:
-🐍 Python <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue alt="python" />&nbsp;&nbsp;    
-🔧 Django <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green alt="django" />&nbsp;&nbsp;   
-🐘 PostgreSQL <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white alt="postgresql" />&nbsp;&nbsp;   
-🐬 MySQL <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white alt="mysql" />&nbsp;&nbsp;   
-⚡ FastAPI <img src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white alt="fastAPI" />&nbsp;&nbsp;   
-🦊 Nestjs <img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white alt="nestjs" />&nbsp;&nbsp;   
-🌶️ Flask <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white alt="flask" />&nbsp;&nbsp;   
-:octocat: GitHub <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt="github" />&nbsp;&nbsp;   
+🐍 Python   
+🔧 Django  
+🐘 PostgreSQL  
+🐬 MySQL  
+⚡ FastAPI  
+🦊 Nestjs  
+🌶️ Flask  
+:octocat: GitHub  
 ♻️ SCRUM  
 <p align="center">
+  <p>🐍 Python</p>
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue alt="python" />&nbsp;&nbsp;    
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green alt="django" />&nbsp;&nbsp;   
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white alt="postgresql" />&nbsp;&nbsp;   
