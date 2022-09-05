@@ -45,9 +45,9 @@ Este proyecto es el complemento del anterior el cual permite manejar la informac
 [![afbayonaj GitHub stats](https://github-readme-stats.vercel.app/api?username=afbayonaj&show_icons=true&theme=chartreuse-dark)](https://github.com/afbayonaj/github-readme-stats)
 
 ___________________________________________________________________________________
-<p>
+
 _Orgullosamente estudiante_   
-<br />
+<p>
 <img src="https://img.shields.io/badge/Platzi-98CA3F?style=for-the-badge&logo=platzi&logoColor=white" alt="github" />&nbsp;&nbsp;
 </p>
 ___________________________________________________________________________________  
