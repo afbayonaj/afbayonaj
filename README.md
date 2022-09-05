@@ -1,7 +1,7 @@
 
 # 👋🏻 &nbsp;&nbsp;Hi there, I am Andres Bayona
 
-![me](https://user-images.githubusercontent.com/69485322/188474316-346ed3b7-d8c8-4739-921e-0fc1775c0e2d.png)
+![me](https://user-images.githubusercontent.com/69485322/188476642-2a6b5965-c86e-4aa8-a756-943ce2c696b1.png)
 
 Soy Backend Developer con tecnologias como Python, Django, FastAPI, Flask, Nestjs, MySQL, PostgreSQL. Tengo experiencia trabajando con la metodogia SCRUM y con equipos de trabajo interdisciplinar. Tengo conocimiento liderando equipos de trabajo y proyectos de investigacion.
 
